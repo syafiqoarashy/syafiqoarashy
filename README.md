@@ -10,7 +10,7 @@ I'm a passionate undergraduate student pursuing a Bachelor of IT with a major in
 - **Gradient** - Software Engineer Intern (Jun 2024 – Present)
 - **MoneyFitt** - Software Developer Intern (Jan 2024 – Apr 2024)
 
-## 🏆 Honors and Awards
+## 🏆 Awards
 - **1st Winner Youth Empowerment Hack** - Garuda Hacks 4.0 (July 2023)
   
 ## 🛠️ Skills
