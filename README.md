@@ -15,7 +15,7 @@ I'm a passionate undergraduate student pursuing a BInfoTech with a major in UX D
 - **1st Winner Youth Empowerment Hack** - Garuda Hacks 4.0 (July 2023)
   
 ## 🛠️ Skills
-#### Web Development
+#### Web/Mobile Development
 <div>
 <img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,html,css,spring,django,next,react,angular,postgres,tailwind,sass,threejs" />
 </div>
