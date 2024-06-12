@@ -32,7 +32,7 @@ I'm a passionate undergraduate student pursuing a BInfoTech with a major in UX D
 
 ## 📊 My Github Statistics
 <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=syafiqoarashy&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_radius=16"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=syafiqoarashy&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_radius=16"/>
 </p>
 
 ## 🌐 Let's Connect!
