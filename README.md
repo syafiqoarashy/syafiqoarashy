@@ -1,6 +1,6 @@
 # Hi there! I'm Syafiqo Arashy 👋
 
-I'm a passionate undergraduate student pursuing a Bachelor of IT with a major in UX Design at the University of Queensland and a B.Sc. in Computer Science at the University of Indonesia. I'm driven by creativity and a love for problem-solving, continuously improving my skills in Software Development and UI/UX Design. My ultimate aspiration is to innovate in the exciting field of XR (Extended Reality).
+I'm a passionate undergraduate student pursuing a BInfoTech with a major in UX Design at the University of Queensland and a BSc in Computer Science at the University of Indonesia. I'm driven by creativity and a love for problem-solving, continuously improving my skills in Software Development and UI/UX Design. My ultimate aspiration is to innovate in the exciting field of XR (Extended Reality).
 
 ## 🎓 Education
 - **University of Queensland** - Bachelor of IT, Major in UX Design (2024 – Present)
