@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi there! I'm Syafiqo Arashy 👋
+
+I'm a passionate undergraduate student pursuing a Bachelor of IT with a major in UX Design at the University of Queensland and a B.Sc. in Computer Science at the University of Indonesia. I'm driven by creativity and a love for problem-solving, continuously improving my skills in Software Development and UI/UX Design. My ultimate aspiration is to innovate in the exciting field of XR (Extended Reality).
+
+## 🎓 Education
+- **University of Queensland** - Bachelor of IT, Major in UX Design (2024 – Present)
+- **University of Indonesia** - B.Sc. in Computer Science (2021 – Present)
+
+## 💼 Experience
+- **Gradient** - Software Engineer Intern (JUN 2024 – PRESENT)
+- **MoneyFitt** - Software Developer Intern (JAN 2024 – APR 2024)
+
+## 🏆 Honors and Awards
+- **1st Winner Youth Empowerment Hack** - Garuda Hacks 4.0 (July 2023)
+  
+## 🛠️ Skills
+#### Web Development
+<div>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,spring,django,next,react,angular,postgres,tailwind" />
+</div>
+
+#### Game Development
+<div>
+<img src="https://skillicons.dev/icons?i=cs,cpp,unity,unreal" />
+</div>
+
+#### UI/UX Design
+<div>
+<img src="https://skillicons.dev/icons?i=figma" />
+</div>
+
+</br>
+
+## 📊 My Github Statistics
+<p>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=syafiqoarashy&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
+</p>
+
+## 🌐 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syafiqo-arashy-octaviano)
 
 <!--
-**syafiqoarashy/syafiqoarashy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syafiqoarashy&layout=donut&theme=dark&langs_count=6&hide=html,powershell,batchfile" />
 -->
