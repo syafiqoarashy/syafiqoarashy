@@ -16,7 +16,7 @@ I'm a passionate undergraduate student pursuing a Bachelor of IT with a major in
 ## 🛠️ Skills
 #### Web Development
 <div>
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,spring,django,next,react,angular,postgres,tailwind" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,spring,django,next,react,angular,postgres,tailwind,threejs" />
 </div>
 
 #### Game Development
