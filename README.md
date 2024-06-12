@@ -7,8 +7,8 @@ I'm a passionate undergraduate student pursuing a Bachelor of IT with a major in
 - **University of Indonesia** - B.Sc. in Computer Science (2021 – Present)
 
 ## 💼 Experience
-- **Gradient** - Software Engineer Intern (JUN 2024 – PRESENT)
-- **MoneyFitt** - Software Developer Intern (JAN 2024 – APR 2024)
+- **Gradient** - Software Engineer Intern (Jun 2024 – Present)
+- **MoneyFitt** - Software Developer Intern (Jan 2024 – Apr 2024)
 
 ## 🏆 Honors and Awards
 - **1st Winner Youth Empowerment Hack** - Garuda Hacks 4.0 (July 2023)
