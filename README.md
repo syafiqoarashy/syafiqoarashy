@@ -17,7 +17,7 @@ I'm a passionate undergraduate student pursuing a BInfoTech with a major in UX D
 ## 🛠️ Skills
 #### Web Development
 <div>
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,html,css,spring,django,next,react,angular,postgres,tailwind,threejs" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,kotlin,html,css,spring,django,next,react,angular,postgres,tailwind,sass,threejs" />
 </div>
 
 #### Game Development
@@ -36,7 +36,7 @@ I'm a passionate undergraduate student pursuing a BInfoTech with a major in UX D
 </p>
 
 ## 🌐 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syafiqo-arashy-octaviano)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/syafiqo-arashy-octaviano)
 
 <!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syafiqoarashy&layout=donut&theme=dark&langs_count=6&hide=html,powershell,batchfile" />
