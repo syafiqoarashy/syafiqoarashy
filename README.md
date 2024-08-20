@@ -11,6 +11,7 @@ I'm a passionate undergraduate student pursuing a BInfoTech with a major in UX D
 - **MoneyFitt** - Software Developer Intern (Jan 2024 – Apr 2024)
 
 ## 🏆 Awards
+- **Best Overall Project** - UQCS Hackathon 2024 (Aug 2024)
 - **Top 10 Finalist of UI/UX Competition** - BASIC: Business and System Innovation Challenge (Aug 2023)
 - **1st Winner Youth Empowerment Hack** - Garuda Hacks 4.0 (July 2023)
   
