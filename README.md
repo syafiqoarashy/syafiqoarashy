@@ -8,7 +8,7 @@ I'm a passionate undergraduate student pursuing a BInfoTech with a major in UX D
 
 ## 💼 Experience
 - **Techflouu** - Full-Stack Developer Intern (Feb 2025 – Present)
-- **Gradient** - Software Engineer Intern (Jun 2024 – Present)
+- **Gradient** - Software Engineer Intern (Jun 2024 – Jun 2025)
 - **MoneyFitt** - Software Developer Intern (Jan 2024 – Apr 2024)
 
 ## 🏆 Awards
