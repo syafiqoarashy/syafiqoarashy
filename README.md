@@ -7,7 +7,8 @@ I'm a passionate undergraduate student pursuing a BInfoTech with a major in UX D
 - **University of Indonesia** - B.Sc. in Computer Science (2021 – Present)
 
 ## 💼 Experience
-- **Techflouu** - Full-Stack Developer Intern (Feb 2025 – Present)
+- **Vast Yonder** - Casual Software Engineer (Jun 2025 - Present)
+- **Techflouu** - Full-Stack Developer Intern (Feb 2025 – Aug 2025)
 - **Gradient** - Software Engineer Intern (Jun 2024 – Jun 2025)
 - **MoneyFitt** - Software Developer Intern (Jan 2024 – Apr 2024)
 
