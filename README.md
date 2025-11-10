@@ -35,7 +35,7 @@ I'm a passionate undergraduate student pursuing a BInfoTech with a major in UX D
 
 ## 📊 My Github Statistics
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img height="180em" src="https://github-readme-stats-two-iota-28.vercel.app/api?username=syafiqoarashy&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_radius=16&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats-two-iota-28.vercel.app/api?username=syafiqoarashy&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&border_radius=16"/>
   <img height="180em" src="https://github-readme-stats-two-iota-28.vercel.app/api/top-langs/?username=syafiqoarashy&layout=donut&theme=transparent&border_radius=16"/>
 </div>
 
